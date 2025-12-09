@@ -1,5 +1,7 @@
 Hey, I'm Arjun 👋
+
 Data Analyst | Power BI | SQL | Excel | Data Visualization
+
 I enjoy exploring datasets and turning them into meaningful business insights. I work with SQL, Excel, and Power BI to analyze sales performance, customer patterns, and operational efficiency.
 
 📦 Project — Blinkit Sales Performance Dashboard (SQL + Excel + Power BI)
